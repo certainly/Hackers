@@ -1,6 +1,6 @@
 # Hackers
 
-[![Build Status](https://travis-ci.org/weiran/Hackers.svg?branch=master)](https://travis-ci.org/weiran/Hackers)
+[![Build Status](https://travis-ci.org/certainly/Hackers.svg?branch=master)](https://travis-ci.org/certainly/Hackers)
 
 Hackers is an iPhone and iPad app for reading Hacker News on the go. It's optimised for quickly catching up on the latest news and comments without getting in your way.
 
